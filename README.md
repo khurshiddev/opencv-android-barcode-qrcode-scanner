@@ -1,3 +1,5 @@
-# opencv-android-document-scanner
+# opencv-QR-and-Barcode-Scanner
 
- I'm going to do this project. This project Contains an activity that allows the user to scan a A4 paper with the smartphone camera. It is based on CameraX and OpenCV
+This sample app uses Firebase MLKit to scan bar codes and QR Codes There are a number of types of barcodes,
+MLKKIt is able scan barcodes of all types including QRcodes and other commonly used bar. codes. 
+You can use MlKit in your android app with cameraX api to scan barcodes and QRcodes with great accuracy and faster detection.
