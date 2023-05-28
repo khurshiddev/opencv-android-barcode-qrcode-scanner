@@ -17,7 +17,7 @@ with great accuracy and faster detection.
 
 <img src="https://https://github.com/khurshiddev/opencv-android-barcode-qrcode-scanner/blob/master/image/QR%20and%20Barcode%20Scanner%202.jpg?raw=true" width=20% >
 <img src="https://github.com/khurshiddev/opencv-android-barcode-qrcode-scanner/blob/master/image/QR%20and%20Barcode%20Scanner%201.jpgg?raw=true" width=20% >
-</div>
+
 
 
 
