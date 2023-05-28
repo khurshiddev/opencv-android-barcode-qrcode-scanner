@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">android-document-scanner</string>
+    <string name="copy">Copy</string>
 </resources>
